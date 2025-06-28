@@ -1,0 +1,8 @@
+NORMAL COMPILATION
+python3 object_compiler.py test2.c
+
+INCREMENT COMPILATION
+python3 change_detector.py test2.c
+python3 function_extractor.py
+python3 recompiler.py
+python3 linker.py

@@ -1,0 +1,15 @@
+.gitignore
+changed_functions.txt
+change_detector.py
+function_extractor.py
+recompiler.py
+object_compiler.py
+linker.py
+final.out
+Makefile
+
+commands.txt
+
+__obj__
+__recom__
+__history__
